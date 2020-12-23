@@ -1,0 +1,26 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.currency {
+    color:white
+}
+
+.currency .card{
+    background-color: #65A6D1;
+    border: none;
+}
+
+.currency button {
+    background-color: #034569;
+}
+
+.currency label {
+    font-weight: bold;
+    font-size: 14px;
+    margin-top:10px;
+
+}
